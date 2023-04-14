@@ -1,0 +1,16 @@
+{
+  "id": "com.example.plugin",
+  "name": "examplePlugin",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "REDME.md",
+  "icon": "",
+  "files": [""],
+  "price": 0,
+  "author": {
+    "name": "Example Author",
+    "email": "example@email.com",
+    "url": "https://example.com",
+    "github": "example"
+  }
+}
