@@ -1,4 +1,6 @@
 Replace Class and For
+
+
 This is a plugin for the Acode text editor that replaces "class" with "className" and "for" with "htmlFor" in JSX/TSX files. The plugin runs when the user hits Ctrl+J and displays a message indicating that the transformation was successful.
 
 Installation
